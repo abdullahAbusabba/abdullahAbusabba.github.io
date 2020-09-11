@@ -4,4 +4,10 @@ Your mission is to construct a single-page website that plays a fully-functional
 
 Follow the instructions to see what your game will look like by the end of this project. Play a few rounds and see how you fare against the ChoreBot:
 
-## Demo : https://abdullahabusabba.github.io/
+# Final results::
+
+![Final result](result.png)
+
+# View demo:
+
+[Demo](https://abdullahabusabba.github.io/)
