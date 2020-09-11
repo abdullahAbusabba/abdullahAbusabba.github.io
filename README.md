@@ -6,7 +6,7 @@ Follow the instructions to see what your game will look like by the end of this 
 
 # Final results::
 
-![Final result](result.png)
+![Final result](/Users/abdullahabu-sabba/codeAcademy/chore_door/abdullahAbusabba.github.io/result.png)
 
 # View demo:
 
