@@ -1,0 +1,72 @@
+body {
+    background-color: #231841;
+    margin: 0px;
+  }
+  
+  .header { background-color: #C4D7F2;text-align: center; }
+
+.title-row {
+  margin-top: 42px;
+  margin-bottom: 21px;
+  text-align: center;
+}
+
+.instructions-title {
+  display: inline;
+  font-size: 18px;
+  color: #F0F7EE;
+  font-family: 'Work Sans','Courier New', Courier, monospace;
+}
+
+.instructions-row {
+  margin: 0 auto;
+  width: 400px;
+
+}
+
+.instructions-number {
+  padding-right: 25px;
+  font-family: 'Work Sans','Courier New', Courier, monospace;
+  font-size: 36px;
+  color: #F0F7EE;
+}
+
+.instructions-text {
+  padding: 10px;
+  font-family: 'Work Sans','Courier New', Courier, monospace;
+  font-size: 14px;
+  color: #ffffff;
+  white-space:nowrap;
+}
+
+  /* setting the distance between each door and change the curser when the user hover over   */
+  .door-frame {
+    cursor: pointer; 
+    padding: 10px;
+    margin: auto;
+    align-content: center;
+   }
+.door-row {
+  text-align: center;
+}
+
+.start-row {
+  margin: auto;
+  width: 120px;
+  height: 43px;
+  font-family: 'Work Sans','Courier New', Courier, monospace;
+  background-color: #AFDEDC;
+  padding-top: 18px;
+  font-size: 18px;
+  text-align: center;
+  color: #010165;
+  margin-bottom: 21px;
+  cursor: pointer;
+
+}
+
+/* .door1, .door2 , .door3 , .door-frame{
+  width: 1200px;
+  height: 1px;
+  
+} */
